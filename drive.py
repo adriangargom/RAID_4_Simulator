@@ -4,7 +4,6 @@ class Drive:
     arr = None
     status = None
 
-    #Constructor
     def __init__(self):
         self.arr = []
         self.status = True
