@@ -1,0 +1,20 @@
+
+----------------------------------------------------------
+    Status Actions
+    0. Get the actual mounted Drives in the RAID system
+    1. Check the Disk status
+    2. Get the actual data from the drives
+
+    Data Add Actions
+    3. Add data into the drives as a string
+
+    Destructive Actions
+    4. Destroy / Clear the data from a Drive
+    5. Restore a faulty Drive
+
+    Others
+    6. Commands help
+    7. Clear Console
+    8. Exit Application
+
+----------------------------------------------------------
