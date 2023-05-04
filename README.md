@@ -20,7 +20,7 @@ The actions we can perform are the following :
 ---
 ## Dependencies
 
-No dependencies are needed, just pytho 3.10.6 or latest!
+No dependencies are needed, just python 3.10.6 or latest!
 
 ---
 ## Project Setup
